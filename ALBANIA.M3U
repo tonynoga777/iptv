@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AL| BIG BROTHER VIP ALBANIA 1" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 1
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/401837230
+#EXTINF:-1 tvg-id="" tvg-name="AL| BIG BROTHER VIP ALBANIA 1 [BK]" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 1 [BK]
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/401837232
+#EXTINF:-1 tvg-id="" tvg-name="AL| BIG BROTHER VIP ALBANIA 1 [BK1]" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 1 [BK1]
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/401837752
+#EXTINF:-1 tvg-id="" tvg-name="AL| BIG BROTHER VIP ALBANIA 2" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 2
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/401837231
+#EXTINF:-1 tvg-id="" tvg-name="AL| BIG BROTHER VIP ALBANIA 2 [BK]" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 2 [BK]
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/401837233
+#EXTINF:-1 tvg-id="" tvg-name="AL| BIG BROTHER VIP ALBANIA 2 [BK1]" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 2 [BK1]
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/401837753
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ RTSH ✦●✦" tvg-logo="https://lo1.in/alb/flg.png" group-title="EU | ALBANIA RTSH",✦●✦ RTSH ✦●✦
 http://bugdnyj.qastertv.xyz:80/live/5E7A4ZFD/9FXKLTJS/400148406.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL| RTSH SAT HD" tvg-logo="https://lo1.in/alb/rtshsat.png" group-title="EU | ALBANIA RTSH",AL| RTSH SAT HD
@@ -1131,3 +1143,4 @@ http://bugdnyj.qastertv.xyz:80/live/5E7A4ZFD/9FXKLTJS/401285109.m3u8
 http://bugdnyj.qastertv.xyz:80/live/5E7A4ZFD/9FXKLTJS/401285146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL| MRT 2" tvg-logo="https://lo1.in/alb/flma.png" group-title="EU | ALBANIA GJENERALE",AL| MRT 2
 http://bugdnyj.qastertv.xyz:80/live/5E7A4ZFD/9FXKLTJS/401285147.m3u8
+
