@@ -1,8 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG Brother 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/227305c0b48a4feb46d3eee53a30a808.jpg",AL: BIG Brother 1 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303915.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG Brother 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/54d1c9185f0f0baf213073e01f1cbfee.jpg",AL: BIG Brother 2 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303916.ts
+#EXTINF:-1,AL| BIG BROTHER VIP ALBANIA 1
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/1296741
+#EXTINF:-1,AL| BIG BROTHER VIP ALBANIA 1 [BK]
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/1296743
+#EXTINF:-1,AL| BIG BROTHER VIP ALBANIA 1 [BK1]
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/1297203
+#EXTINF:-1,AL| BIG BROTHER VIP ALBANIA 2
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/1296742
+#EXTINF:-1,AL| BIG BROTHER VIP ALBANIA 2 [BK]
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/1296744
+#EXTINF:-1,AL| BIG BROTHER VIP ALBANIA 2 [BK1]
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/1297204
 #EXTINF:-1 tvg-id="" tvg-name="AL: TOP Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/ccdd2ccdf1cface8d5a14186566daf84.png",AL: TOP Channel HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303961.ts
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ ALBANIA SPORTS HD ✦●✦" tvg-logo="https://lo1.in/alb/albsp.png" group-title="EU | ALBANIA SPORTS",✦●✦ ALBANIA SPORTS HD ✦●✦
@@ -1079,5 +1087,6 @@ http://bugdnyj.qastertv.xyz:80/live/5E7A4ZFD/9FXKLTJS/401285109.m3u8
 http://bugdnyj.qastertv.xyz:80/live/5E7A4ZFD/9FXKLTJS/401285146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL| MRT 2" tvg-logo="https://lo1.in/alb/flma.png" group-title="EU | ALBANIA GJENERALE",AL| MRT 2
 http://bugdnyj.qastertv.xyz:80/live/5E7A4ZFD/9FXKLTJS/401285147.m3u8
+
 
 
