@@ -11,8 +11,36 @@ http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/1296742
 http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/1296744
 #EXTINF:-1,AL| BIG BROTHER VIP ALBANIA 2 [BK1]
 http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/1297204
-#EXTINF:-1 tvg-id="" tvg-name="AL: TOP Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/ccdd2ccdf1cface8d5a14186566daf84.png",AL: TOP Channel HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303961.ts
+#EXTINF:-1,AL| TOP CHANNEL FHD
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/126531
+#EXTINF:-1,AL| TOP CHANNEL HD
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/91715
+#EXTINF:-1,AL| TOP CHANNEL SD
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/22630
+#EXTINF:-1,AL| TOP CHANNEL HD [BK]
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/34316
+#EXTINF:-1,AL| KLAN FHD
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/33245
+#EXTINF:-1,AL| KLAN HD
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/82124
+#EXTINF:-1,AL| KLAN HD [BK]
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/34162
+#EXTINF:-1,AL| KLAN HEVC
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/4846
+#EXTINF:-1,AL| KLAN PLUS FHD
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/126530
+#EXTINF:-1,AL| KLAN PLUS HEVC
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/4845
+#EXTINF:-1,AL| KLAN KOSOVA FHD
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/173402
+#EXTINF:-1,AL| KLAN KOSOVA HD
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/33246
+#EXTINF:-1,AL| KLAN MACEDONIA HD
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/33247
+#EXTINF:-1,AL| VIZION PLUS FHD
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/126528
+#EXTINF:-1,AL| VIZION PLUS HD
+http://nbugdnyj.qastertv.xyz:80/5E7A4ZFD/9FXKLTJS/126529
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ ALBANIA SPORTS HD ✦●✦" tvg-logo="https://lo1.in/alb/albsp.png" group-title="EU | ALBANIA SPORTS",✦●✦ ALBANIA SPORTS HD ✦●✦
 http://bugdnyj.qastertv.xyz:80/live/5E7A4ZFD/9FXKLTJS/400148245.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL| SUPER SPORT KOSOVA 1 HD" tvg-logo="https://lo1.in/alb/SSK3.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT KOSOVA 1 HD
@@ -1087,6 +1115,7 @@ http://bugdnyj.qastertv.xyz:80/live/5E7A4ZFD/9FXKLTJS/401285109.m3u8
 http://bugdnyj.qastertv.xyz:80/live/5E7A4ZFD/9FXKLTJS/401285146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL| MRT 2" tvg-logo="https://lo1.in/alb/flma.png" group-title="EU | ALBANIA GJENERALE",AL| MRT 2
 http://bugdnyj.qastertv.xyz:80/live/5E7A4ZFD/9FXKLTJS/401285147.m3u8
+
 
 
 
