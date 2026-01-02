@@ -1,28 +1,10 @@
 #EXTM3U
+#EXTINF:0 tvg-name="AL: BIG BROTHER VIP ALB 1" group-title="AL| GJENERALE" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14731.png?37310",AL: BIG BROTHER VIP ALB 1
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/1752038.ts
+#EXTINF:0 tvg-name="AL: BIG BROTHER VIP ALB 2" group-title="AL| GJENERALE" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14732.png?73429",AL: BIG BROTHER VIP ALB 2
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/1752037.ts
 #EXTINF:0 tvg-name="####### ALBANIA PREMIUM ᴿᴬᵂ #######" group-title="AL| ALBANIA PREMIUM ᴿᴬᵂ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif",####### ALBANIA PREMIUM ᴿᴬᵂ #######
 http://cf.cdn-akoy1.me:80/live/306dcb6264/dc184a3300/1221584.ts
-#EXTINF:0 tvg-name="SAT: RTK 1 ᴿᴬᵂ" group-title="AL| ALBANIA PREMIUM ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3182.png?38873",SAT: RTK 1 ᴿᴬᵂ
-http://cf.cdn-akoy1.me:80/live/306dcb6264/dc184a3300/1221583.ts
-#EXTINF:0 tvg-name="SAT: RTK 2 ᴿᴬᵂ" group-title="AL| ALBANIA PREMIUM ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3167.png?97187",SAT: RTK 2 ᴿᴬᵂ
-http://cf.cdn-akoy1.me:80/live/306dcb6264/dc184a3300/1221582.ts
-#EXTINF:0 tvg-name="SAT: RTK 3 ᴿᴬᵂ" group-title="AL| ALBANIA PREMIUM ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3161.png?53346",SAT: RTK 3 ᴿᴬᵂ
-http://cf.cdn-akoy1.me:80/live/306dcb6264/dc184a3300/1221541.ts
-#EXTINF:0 tvg-name="SAT: RTK 4 ᴿᴬᵂ" group-title="AL| ALBANIA PREMIUM ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3163.jpg?83274",SAT: RTK 4 ᴿᴬᵂ
-http://cf.cdn-akoy1.me:80/live/306dcb6264/dc184a3300/1221542.ts
-#EXTINF:0 tvg-name="SAT: RTV 21 ᴿᴬᵂ" group-title="AL| ALBANIA PREMIUM ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3726.png?57375",SAT: RTV 21 ᴿᴬᵂ
-http://cf.cdn-akoy1.me:80/live/306dcb6264/dc184a3300/1221580.ts
-#EXTINF:0 tvg-name="SAT: KLAN KOSOVA ᴿᴬᵂ" group-title="AL| ALBANIA PREMIUM ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3231.png?88808",SAT: KLAN KOSOVA ᴿᴬᵂ
-http://cf.cdn-akoy1.me:80/live/306dcb6264/dc184a3300/1221581.ts
-#EXTINF:0 tvg-name="SAT: KTV ᴿᴬᵂ" group-title="AL| ALBANIA PREMIUM ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3253.png?36016",SAT: KTV ᴿᴬᵂ
-http://cf.cdn-akoy1.me:80/live/306dcb6264/dc184a3300/1221579.ts
-#EXTINF:0 tvg-name="SAT: T7 ᴿᴬᵂ" group-title="AL| ALBANIA PREMIUM ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3091.png?69355",SAT: T7 ᴿᴬᵂ
-http://cf.cdn-akoy1.me:80/live/306dcb6264/dc184a3300/1221578.ts
-#EXTINF:0 tvg-name="SAT: ALSAT M ᴿᴬᵂ" group-title="AL| ALBANIA PREMIUM ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3360.png?47083",SAT: ALSAT M ᴿᴬᵂ
-http://cf.cdn-akoy1.me:80/live/306dcb6264/dc184a3300/1221577.ts
-#EXTINF:0 tvg-name="SAT: DUKAGJINI ᴿᴬᵂ" group-title="AL| ALBANIA PREMIUM ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8494.png?63010",SAT: DUKAGJINI ᴿᴬᵂ
-http://cf.cdn-akoy1.me:80/live/306dcb6264/dc184a3300/1221576.ts
-#EXTINF:0 tvg-name="SAT: TËVË1 ᴿᴬᵂ" group-title="AL| ALBANIA PREMIUM ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11412.png?95033",SAT: TËVË1 ᴿᴬᵂ
-http://cf.cdn-akoy1.me:80/live/306dcb6264/dc184a3300/1221575.ts
 #EXTINF:0 tvg-name="SAT: TOP CHANNEL ᴿᴬᵂ" group-title="AL| ALBANIA PREMIUM ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3073.png?48220",SAT: TOP CHANNEL ᴿᴬᵂ
 http://cf.cdn-akoy1.me:80/live/306dcb6264/dc184a3300/1221574.ts
 #EXTINF:0 tvg-name="SAT: KLAN ᴿᴬᵂ" group-title="AL| ALBANIA PREMIUM ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3231.png?35840",SAT: KLAN ᴿᴬᵂ
