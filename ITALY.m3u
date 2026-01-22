@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:0 tvg-name="### PLATINUM TV UHD/4K ###" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-Italy.gif",### PLATINUM TV UHD/4K ###
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284774.ts
+#EXTINF:0 tvg-name="IT: RAI 1 UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11960.png?42256",IT: RAI 1 UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284564.ts
+#EXTINF:0 tvg-name="IT: RAI 1 4K" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11960.png?42256",IT: RAI 1 4K
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284565.ts
+#EXTINF:0 tvg-name="IT: RAI 2 UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11959.png?29756",IT: RAI 2 UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284566.ts
+#EXTINF:0 tvg-name="IT: RAI 3 UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11958.jpg?22156",IT: RAI 3 UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284567.ts
+#EXTINF:0 tvg-name="IT: RAI 2 4K" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11959.png?17707",IT: RAI 2 4K
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284568.ts
+#EXTINF:0 tvg-name="IT: RAI 3 4K" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11958.jpg?70052",IT: RAI 3 4K
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284569.ts
+#EXTINF:0 tvg-name="IT: RETE 4 UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11947.jpg?23378",IT: RETE 4 UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284570.ts
+#EXTINF:0 tvg-name="IT: RETE 4 4K" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11947.jpg?23378",IT: RETE 4 4K
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284571.ts
+#EXTINF:0 tvg-name="IT: CANALE 5 UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10563.jpg?72566",IT: CANALE 5 UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284572.ts
+#EXTINF:0 tvg-name="IT: CANALE 5 4K" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10563.jpg?72566",IT: CANALE 5 4K
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284573.ts
+#EXTINF:0 tvg-name="IT: ITALIA 1 UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13283.png?94577",IT: ITALIA 1 UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284574.ts
+#EXTINF:0 tvg-name="IT: ITALIA 1 4K" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13283.png?94577",IT: ITALIA 1 4K
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284575.ts
+#EXTINF:0 tvg-name="IT: LA 7 UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13285.png?90791",IT: LA 7 UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284576.ts
+#EXTINF:0 tvg-name="IT: LA 7 4K" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13285.png?90791",IT: LA 7 4K
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284577.ts
+#EXTINF:0 tvg-name="IT: RSI LA 1 UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12793.jpg?29293",IT: RSI LA 1 UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284578.ts
+#EXTINF:0 tvg-name="IT: RSI LA 2 UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12341.jpg?65457",IT: RSI LA 2 UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284579.ts
+#EXTINF:0 tvg-name="IT: LA 7D UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12325.jpg?40354",IT: LA 7D UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284580.ts
+#EXTINF:0 tvg-name="IT: LA 7D 4K" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12325.jpg?40354",IT: LA 7D 4K
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284581.ts
+#EXTINF:0 tvg-name="IT: TV8 UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7841.jpg?63798",IT: TV8 UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284582.ts
+#EXTINF:0 tvg-name="IT: NOVE UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12345.jpg?70158",IT: NOVE UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284583.ts
+#EXTINF:0 tvg-name="IT: NOVE 4K" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12345.jpg?70158",IT: NOVE 4K
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284584.ts
+#EXTINF:0 tvg-name="IT: CINE34 UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13287.jpg?59390",IT: CINE34 UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284585.ts
+#EXTINF:0 tvg-name="IT: RAI PREMIUM UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11970.jpg?33705",IT: RAI PREMIUM UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284586.ts
+#EXTINF:0 tvg-name="IT: RAI PREMIUM 4K" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11970.jpg?33705",IT: RAI PREMIUM 4K
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284587.ts
+#EXTINF:0 tvg-name="IT: RAI MOVIE UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11970.jpg?33705",IT: RAI MOVIE UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284588.ts
+#EXTINF:0 tvg-name="IT: RAI MOVIE 4K" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11970.jpg?33705",IT: RAI MOVIE 4K
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284589.ts
+#EXTINF:0 tvg-name="IT: RAI 4 UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11969.png?30042",IT: RAI 4 UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284590.ts
+#EXTINF:0 tvg-name="IT: RAI 4 4K" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11969.png?30042",IT: RAI 4 4K
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284591.ts
+#EXTINF:0 tvg-name="IT: RAI 5 UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11957.png?89751",IT: RAI 5 UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284592.ts
+#EXTINF:0 tvg-name="IT: RAI 5 4K" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11957.png?89751",IT: RAI 5 4K
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284593.ts
+#EXTINF:0 tvg-name="IT: TV2000 UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11949.jpg?80601",IT: TV2000 UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284594.ts
+#EXTINF:0 tvg-name="IT: PADREPIO UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8344.jpg?59204",IT: PADREPIO UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284595.ts
+#EXTINF:0 tvg-name="IT: TOP CRIME UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12399.jpg?23470",IT: TOP CRIME UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284596.ts
+#EXTINF:0 tvg-name="IT: MEDIA EXTRA UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7857.jpg?19139",IT: MEDIA EXTRA UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284597.ts
+#EXTINF:0 tvg-name="IT: CANALE 20 UHD" group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12487.jpg?89201",IT: CANALE 20 UHD
+http://cf.cdn-959.me:80/live/306dcb6264/dc184a3300/284598.ts
