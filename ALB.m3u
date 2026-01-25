@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:0 tvg-name="AL: BIG BROTHER VIP ALB 1" group-title="AL| GJENERALE" tvg-logo="https://icon-tmdb.com/stalker_portal/misc/logos/320/14735.png?46883",AL: BIG BROTHER VIP ALB 1
+http://gold.api-cdn.cloud:80/live/306dcb6264/dc184a3300/1752038.ts
+#EXTINF:0 tvg-name="AL: BIG BROTHER VIP ALB 2" group-title="AL| GJENERALE" tvg-logo="https://icon-tmdb.com/stalker_portal/misc/logos/320/14736.png?85963",AL: BIG BROTHER VIP ALB 2
+http://gold.api-cdn.cloud:80/live/306dcb6264/dc184a3300/1752037.ts
+#EXTINF:0 tvg-name="AL: BIG BROTHER VIP KOSOVA 1" group-title="AL| GJENERALE" tvg-logo="https://icon-tmdb.com/stalker_portal/misc/logos/320/14731.png?37310",AL: BIG BROTHER VIP KOSOVA 1
+http://gold.api-cdn.cloud:80/live/306dcb6264/dc184a3300/1689993.ts
+#EXTINF:0 tvg-name="AL: BIG BROTHER VIP KOSOVA 2" group-title="AL| GJENERALE" tvg-logo="https://icon-tmdb.com/stalker_portal/misc/logos/320/14732.png?73429",AL: BIG BROTHER VIP KOSOVA 2
+http://gold.api-cdn.cloud:80/live/306dcb6264/dc184a3300/1689998.ts
 #EXTINF:0 tvg-name="SAT: TOP CHANNEL ᴿᴬᵂ" group-title="AL| ALBANIA PREMIUM ᴿᴬᵂ" tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/3073.png?48220",SAT: TOP CHANNEL ᴿᴬᵂ
 http://omega-mg8k.cloud:80/live/306dcb6264/dc184a3300/1221574.ts
 #EXTINF:0 tvg-name="SAT: KLAN ᴿᴬᵂ" group-title="AL| ALBANIA PREMIUM ᴿᴬᵂ" tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/3231.png?35840",SAT: KLAN ᴿᴬᵂ
