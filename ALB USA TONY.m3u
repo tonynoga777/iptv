@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| BIG BROTHER VIP ALBANIA 1" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 1
-http://twpwjtsd.kkihl.com:80/live/WVD7UL96/DCE42YPH/1296741.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| BIG BROTHER VIP ALBANIA 1 [BK]" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 1 [BK]
-http://twpwjtsd.kkihl.com:80/live/WVD7UL96/DCE42YPH/1296743.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| BIG BROTHER VIP ALBANIA 1 [BK1]" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 1 [BK1]
-http://twpwjtsd.kkihl.com:80/live/WVD7UL96/DCE42YPH/1297203.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| BIG BROTHER VIP ALBANIA 2" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 2
-http://twpwjtsd.kkihl.com:80/live/WVD7UL96/DCE42YPH/1296742.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| BIG BROTHER VIP ALBANIA 2 [BK]" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 2 [BK]
-http://twpwjtsd.kkihl.com:80/live/WVD7UL96/DCE42YPH/1296744.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| BIG BROTHER VIP ALBANIA 2 [BK1]" tvg-logo="https://lo1.in/alb/bbva.png" group-title="EU | ALBANIA GJENERALE",AL| BIG BROTHER VIP ALBANIA 2 [BK1]
-http://twpwjtsd.kkihl.com:80/live/WVD7UL96/DCE42YPH/1297204.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FERMA VIP 1" tvg-logo="https://lo1.in/alb/Ferma.png" group-title="EU | ALBANIA GJENERALE",AL| FERMA VIP 1
 http://twpwjtsd.kkihl.com:80/live/WVD7UL96/DCE42YPH/1359408.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FERMA VIP 1 [BK1]" tvg-logo="https://lo1.in/alb/Ferma.png" group-title="EU | ALBANIA GJENERALE",AL| FERMA VIP 1 [BK1]
