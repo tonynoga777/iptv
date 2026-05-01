@@ -1,504 +1,154 @@
 #EXTM3U
-#EXTINF:0 tvg-name="24 Kitchen 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/012e3b4e674062a69790b7e7a334e4b6.png",24 Kitchen 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283014.ts
-#EXTINF:0 tvg-name="8OVA Drame 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",8OVA Drame 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283015.ts
-#EXTINF:0 tvg-name="8OVA Family 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",8OVA Family 🇦🇱
+#EXTINF:-1,8OVA Family 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283016.ts
-#EXTINF:0 tvg-name="8OVA Gjurme Shqiptare 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",8OVA Gjurme Shqiptare 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283017.ts
-#EXTINF:0 tvg-name="8OVA Gold 1 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",8OVA Gold 1 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283018.ts
-#EXTINF:0 tvg-name="8OVA Gold 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",8OVA Gold 2 🇦🇱
+#EXTINF:-1,8OVA Gold 2 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283019.ts
-#EXTINF:0 tvg-name="8OVA Komedi 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",8OVA Komedi 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283020.ts
-#EXTINF:0 tvg-name="8OVA Music 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",8OVA Music 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283021.ts
-#EXTINF:0 tvg-name="8OVA Popullore 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",8OVA Popullore 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283022.ts
-#EXTINF:0 tvg-name="8OVA Thriller 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",8OVA Thriller 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283023.ts
-#EXTINF:0 tvg-name="8OVA Çifteli 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",8OVA Çifteli 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283024.ts
-#EXTINF:0 tvg-name="A2 CNN 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/e3c9f286bfd62107c55a5fa57d890051.png",A2 CNN 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283025.ts
-#EXTINF:0 tvg-name="ABC News 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/907384e0075e9683670001f274631a38.png",ABC News 🇦🇱
+#EXTINF:-1,ABC News 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283026.ts
-#EXTINF:0 tvg-name="Alb Aksion 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/57f39177e8a54d5842bea69801cc7836.png",Alb Aksion 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283027.ts
-#EXTINF:0 tvg-name="Alb UK 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/9f9df5f62fcfaba7d0d03c3e244d72fd.png",Alb UK 🇦🇱
+#EXTINF:-1,Alb UK 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283028.ts
-#EXTINF:0 tvg-name="Albania TV Chicago 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Albania TV Chicago 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283029.ts
-#EXTINF:0 tvg-name="ALSAT M 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/123d25a06de7985466c118b6b937ab64.png",ALSAT M 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283030.ts
-#EXTINF:0 tvg-name="ALSAT TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/a23983e216771aeb6c0251928dea3e1c.png",ALSAT TV 🇦🇱
+#EXTINF:-1,ALSAT TV 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283031.ts
-#EXTINF:0 tvg-name="Amol TV  🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="data:image/jpeg;base64",Amol TV  🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283032.ts
-#EXTINF:0 tvg-name="Animal Planet 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/b73b36a238c8cf4de7a681241773d20c.png",Animal Planet 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283033.ts
-#EXTINF:0 tvg-name="Antena 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/468a381997e0be767b52e72f33cd4471.png",Antena 🇦🇱
+#EXTINF:-1,Antena 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283034.ts
-#EXTINF:0 tvg-name="ART Doku 1 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/88c68cf7679a1c5e7ac162c231faf3d6.png",ART Doku 1 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283035.ts
-#EXTINF:0 tvg-name="ART Doku 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/76e8b4b08ee265abadcca2b9ed5327cf.png",ART Doku 2 🇦🇱
+#EXTINF:-1,ART Doku 2 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283036.ts
-#EXTINF:0 tvg-name="ART Kino 1 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/859dbe5fab02fcb6e0b2015c2b275b25.png",ART Kino 1 🇦🇱
+#EXTINF:-1,ART Kino 1 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283037.ts
-#EXTINF:0 tvg-name="ART Kino 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/4ef5de6d26d1e4ef123255d094ebd206.png",ART Kino 2 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283038.ts
-#EXTINF:0 tvg-name="ART Kino 3 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/0b0ac717b3c3f037d2ec81acdd6477a2.png",ART Kino 3 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283039.ts
-#EXTINF:0 tvg-name="ART Sport 1 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/79154bdac96d0ff4ae87015666efe106.png",ART Sport 1 🇦🇱
+#EXTINF:-1,ART Sport 1 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283040.ts
-#EXTINF:0 tvg-name="ART Sport 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/553c421a452f67d834e3d136ea3678d2.png",ART Sport 2 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283041.ts
-#EXTINF:0 tvg-name="ART Sport 3 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/50d0dd58ed97e2ddc54675c398a67b04.png",ART Sport 3 🇦🇱
+#EXTINF:-1,ART Sport 3 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283042.ts
-#EXTINF:0 tvg-name="Arta TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/5992cec5adbf1dc7d234b53c41b19bab.png",Arta TV 🇦🇱
+#EXTINF:-1,Arta TV 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283043.ts
-#EXTINF:0 tvg-name="Ashkali TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/9ffb1a937a2a21eb806d6228e1c718ca.png",Ashkali TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283044.ts
-#EXTINF:0 tvg-name="Baby TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png",Baby TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283045.ts
-#EXTINF:0 tvg-name="Balkanika Music 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/ce9d1a718d8135cae1b2543cabafa23f.png",Balkanika Music 🇦🇱
+#EXTINF:-1,Balkanika Music 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283046.ts
-#EXTINF:0 tvg-name="Bang Bang 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/cd2115e9cf55e497271524e15e394dd6.png",Bang Bang 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283047.ts
-#EXTINF:0 tvg-name="BBF Music 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/009a7f90ef6a52a6cba44ae6b29e84f1.jpeg",BBF Music 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283048.ts
-#EXTINF:0 tvg-name="Besa TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/faf275e53b795512cd15b05de2659fd2.png",Besa TV 🇦🇱
+#EXTINF:-1,Besa TV 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283049.ts
-#EXTINF:0 tvg-name="Big Brother VIP Kosova 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Big Brother VIP Kosova 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283050.ts
-#EXTINF:0 tvg-name="Big Brother VIP Kosova 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Big Brother VIP Kosova 2 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283051.ts
-#EXTINF:0 tvg-name="BigBrother 1 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/acfc80c38792d1b9f508b1dfcfc6a1fd.png",BigBrother 1 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283052.ts
-#EXTINF:0 tvg-name="BigBrother 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/acfc80c38792d1b9f508b1dfcfc6a1fd.png",BigBrother 2 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283053.ts
-#EXTINF:0 tvg-name="Boomerang 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/e07e6b1ffa9a0f1604511fe83b39ef8a.png",Boomerang 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283054.ts
-#EXTINF:0 tvg-name="City TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/791241eb951e3a2f6bc6fb38eceb355e.png",City TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283055.ts
-#EXTINF:0 tvg-name="Club TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/8eb98609e2b7232e81595862d19721e2.png",Club TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283056.ts
-#EXTINF:0 tvg-name="Cufo 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/87d37fce1983c7bc8a1056ac54438f18.png",Cufo 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283057.ts
-#EXTINF:0 tvg-name="Dasma TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/64c31821603ab476a318839606743bd6.jpg",Dasma TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283058.ts
-#EXTINF:0 tvg-name="Dielli TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/a662ba5a0acd288acf2918201a6825bf.jpg",Dielli TV 🇦🇱
+#EXTINF:-1,Dielli TV 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283059.ts
-#EXTINF:0 tvg-name="Digi Gold 1 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/12f16ec843b3933e23d2910a70f01bbd.png",Digi Gold 1 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283060.ts
-#EXTINF:0 tvg-name="Digi Gold 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/20aa08a9040aa9b4f7889a74b079d7e4.png",Digi Gold 2 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283061.ts
-#EXTINF:0 tvg-name="Digi Gold 3 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/a360c2615ad9c2ed8baf756f08b56bb7.png",Digi Gold 3 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283062.ts
-#EXTINF:0 tvg-name="Digi Gold 4 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/d374d47f90577751aa501ceb1cea307a.png",Digi Gold 4 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283063.ts
-#EXTINF:0 tvg-name="Digi Gold 5 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/8264481c88a6c0c5dedd3f54ae12e725.png",Digi Gold 5 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283064.ts
-#EXTINF:0 tvg-name="Discovery Channel 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/813513ce030768aab17b38d54a047587.png",Discovery Channel 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283065.ts
-#EXTINF:0 tvg-name="Discovery Science 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/08cd13cf02ec49b5c7641e0ca4c1cf24.png",Discovery Science 🇦🇱
+#EXTINF:-1,Discovery Science 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283066.ts
-#EXTINF:0 tvg-name="Disney Junior 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/88d02fd4108038bc3811c9f104f1703c.png",Disney Junior 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283067.ts
-#EXTINF:0 tvg-name="Elrodi TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c1ae95903b2f15588c5b8d309da684e2.png",Elrodi TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283068.ts
-#EXTINF:0 tvg-name="Era TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/835e2636d5b55ac66429be452de841fe.png",Era TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283069.ts
-#EXTINF:0 tvg-name="Euro Film 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/e6ae5dae2339057be9de9305984d603a.png",Euro Film 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283070.ts
-#EXTINF:0 tvg-name="Euronews Albania 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/8506f3a72eb34dddfe3622042dd55d32.png",Euronews Albania 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283071.ts
-#EXTINF:0 tvg-name="Eurosport 1 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/b5214b9741f9233b6037c992fc494922.png",Eurosport 1 🇦🇱
+#EXTINF:-1,Eurosport 1 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283072.ts
-#EXTINF:0 tvg-name="Eurosport 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/589b0e65f4552faff219b48a074cb925.png",Eurosport 2 🇦🇱
+#EXTINF:-1,Eurosport 2 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283073.ts
-#EXTINF:0 tvg-name="Explorer Histori 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/d358641a8fde5d0f5c16e39b9e5ee066.png",Explorer Histori 🇦🇱
+#EXTINF:-1,Explorer Histori 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283074.ts
-#EXTINF:0 tvg-name="Explorer Natyra 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/9e0766434af2eeb5ba817c74e3f4390c.png",Explorer Natyra 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283075.ts
-#EXTINF:0 tvg-name="Explorer Shkence 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/37a8377c9495a23e9f2070f4be0083c5.png",Explorer Shkence 🇦🇱
+#EXTINF:-1,Explorer Shkence 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283076.ts
-#EXTINF:0 tvg-name="Fax News 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/236c3b7f761221f195b428aca2f06c4b.png",Fax News 🇦🇱
+#EXTINF:-1,Fax News 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283077.ts
-#EXTINF:0 tvg-name="Film Aksion 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/57f39177e8a54d5842bea69801cc7836.png",Film Aksion 🇦🇱
+#EXTINF:-1,Film Aksion 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283078.ts
-#EXTINF:0 tvg-name="Film Autor 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/610c745418b8bf32e3917e6789b97660.png",Film Autor 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283079.ts
-#EXTINF:0 tvg-name="Film Drame 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/24e233ca921b22ea2760f50810ff5a87.png",Film Drame 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283080.ts
-#EXTINF:0 tvg-name="Film Dy 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/8d7eecbb2c298e8dc11e847ccf0c2a9e.png",Film Dy 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283081.ts
-#EXTINF:0 tvg-name="Film Family 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/162f98dcd4cc416f366d62cfc2cf87ab.png",Film Family 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283082.ts
-#EXTINF:0 tvg-name="Film Gold 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/8264481c88a6c0c5dedd3f54ae12e725.png",Film Gold 🇦🇱
+#EXTINF:-1,Film Gold 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283083.ts
-#EXTINF:0 tvg-name="Film Hits 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/1f7038484155467e6b345e8e4b2e492e.png",Film Hits 🇦🇱
+#EXTINF:-1,Film Hits 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283084.ts
-#EXTINF:0 tvg-name="Film Komedi 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/b802ff9072ac4b5c29332d7e6547d746.png",Film Komedi 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283085.ts
-#EXTINF:0 tvg-name="Film Stinet 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/a11db900e4560c198470c992f8809798.png",Film Stinet 🇦🇱
+#EXTINF:-1,Film Stinet 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283086.ts
-#EXTINF:0 tvg-name="Film Thriller 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/14ce9fa6bac559c274f9908bd7fe80c2.png",Film Thriller 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283087.ts
-#EXTINF:0 tvg-name="First Channel 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/71d281b819baf517f1e6ded769eb3b38.png",First Channel 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283088.ts
-#EXTINF:0 tvg-name="Folk+ 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/01d26a05dd412acbf8c99fd363a0f0cc.png",Folk+ 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283089.ts
-#EXTINF:0 tvg-name="Fox Crime SR 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/cf019785b0db43ea5baa16251a0c0b31.png",Fox Crime SR 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283090.ts
-#EXTINF:0 tvg-name="Fox Life SR 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/8bc7e3ebdb52540756b4fe6500f9a744.png",Fox Life SR 🇦🇱
+#EXTINF:-1,Fox Life SR 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283091.ts
-#EXTINF:0 tvg-name="Fox Movies SR 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/9b3514fbb1bcf2d541c6d34ad0e1201e.png",Fox Movies SR 🇦🇱
+#EXTINF:-1,Fox Movies SR 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283092.ts
-#EXTINF:0 tvg-name="Globi TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/f832c9361c7c3ea7ce48ef13b9115ef5.png",Globi TV 🇦🇱
+#EXTINF:-1,Globi TV 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283093.ts
-#EXTINF:0 tvg-name="IN TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/a186608c3e82aa34f89a365471d0469d.jpg",IN TV 🇦🇱
+#EXTINF:-1,IN TV 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283094.ts
-#EXTINF:0 tvg-name="Istogu Channel 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/57a6c056305128f0db92ceb6c8d61c18.png",Istogu Channel 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283095.ts
-#EXTINF:0 tvg-name="Junior TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/d2fb8e1f897a94a2dee5ffcf454e0eb7.png",Junior TV 🇦🇱
+#EXTINF:-1,Junior TV 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283096.ts
-#EXTINF:0 tvg-name="Kanal 10 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/1d41ae32821807f2faeac32c7c5f341b.png",Kanal 10 🇦🇱
+#EXTINF:-1,Kanal 10 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283097.ts
-#EXTINF:0 tvg-name="Kanal D Drama 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/3ed179c8d77953548bddf128bc50d6d6.png",Kanal D Drama 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283098.ts
-#EXTINF:0 tvg-name="Kanali 7 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/a7d22b9cf13a192d480a651e993974c9.png",Kanali 7 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283099.ts
-#EXTINF:0 tvg-name="Kinema Aksion 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Kinema Aksion 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283100.ts
-#EXTINF:0 tvg-name="Klan Kosova 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c9539afc553dc36b410876f7eecb4493.png",Klan Kosova 🇦🇱
+#EXTINF:-1,Klan Kosova 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283101.ts
-#EXTINF:0 tvg-name="Klan Plus 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/e017506dceb74df374c554f5a1655126.png",Klan Plus 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283102.ts
-#EXTINF:0 tvg-name="Klan TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/49d944102137ad98057cc8431548b43a.png",Klan TV 🇦🇱
+#EXTINF:-1,Klan TV 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283103.ts
-#EXTINF:0 tvg-name="Koha TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/6946db58abc08577f12c64319df5e902.png",Koha TV 🇦🇱
+#EXTINF:-1,Koha TV 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283104.ts
-#EXTINF:0 tvg-name="KS Filma24 Aksion 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c80135ad290b2ba15b6e90ea4a08a592.png",KS Filma24 Aksion 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283105.ts
-#EXTINF:0 tvg-name="KS Filma24 Animacion 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c80135ad290b2ba15b6e90ea4a08a592.png",KS Filma24 Animacion 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283106.ts
-#EXTINF:0 tvg-name="KS Filma24 Aventure 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c80135ad290b2ba15b6e90ea4a08a592.png",KS Filma24 Aventure 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283107.ts
-#EXTINF:0 tvg-name="KS Filma24 Biografi 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c80135ad290b2ba15b6e90ea4a08a592.png",KS Filma24 Biografi 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283108.ts
-#EXTINF:0 tvg-name="KS Filma24 Drame 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c80135ad290b2ba15b6e90ea4a08a592.png",KS Filma24 Drame 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283109.ts
-#EXTINF:0 tvg-name="KS Filma24 Famiy 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c80135ad290b2ba15b6e90ea4a08a592.png",KS Filma24 Famiy 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283110.ts
-#EXTINF:0 tvg-name="KS Filma24 Horror 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c80135ad290b2ba15b6e90ea4a08a592.png",KS Filma24 Horror 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283111.ts
-#EXTINF:0 tvg-name="KS Filma24 Krimi 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c80135ad290b2ba15b6e90ea4a08a592.png",KS Filma24 Krimi 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283112.ts
-#EXTINF:0 tvg-name="KS Filma24 Oscars 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c80135ad290b2ba15b6e90ea4a08a592.png",KS Filma24 Oscars 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283113.ts
-#EXTINF:0 tvg-name="KS Filma24 Premiere 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c80135ad290b2ba15b6e90ea4a08a592.png",KS Filma24 Premiere 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283114.ts
-#EXTINF:0 tvg-name="KS Filma24 Romance 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c80135ad290b2ba15b6e90ea4a08a592.png",KS Filma24 Romance 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283115.ts
-#EXTINF:0 tvg-name="KS Filma24 Thriller 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c80135ad290b2ba15b6e90ea4a08a592.png",KS Filma24 Thriller 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283116.ts
-#EXTINF:0 tvg-name="KS Filma24 Western 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c80135ad290b2ba15b6e90ea4a08a592.png",KS Filma24 Western 🇦🇱
+#EXTINF:-1,KS Filma24 Western 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283117.ts
-#EXTINF:0 tvg-name="KTV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/e9e9f53f8b625fc679ce7059db8de9cd.png",KTV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283118.ts
-#EXTINF:0 tvg-name="Kujtesa Sport 1 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/5144dfeecfd955e9cddbf9a0e85b3990.png",Kujtesa Sport 1 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283119.ts
-#EXTINF:0 tvg-name="Kujtesa Sport 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/5144dfeecfd955e9cddbf9a0e85b3990.png",Kujtesa Sport 2 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283120.ts
-#EXTINF:0 tvg-name="Kujtesa Sport 3 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/5144dfeecfd955e9cddbf9a0e85b3990.png",Kujtesa Sport 3 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283121.ts
-#EXTINF:0 tvg-name="Kujtesa Sport 4 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/5144dfeecfd955e9cddbf9a0e85b3990.png",Kujtesa Sport 4 🇦🇱
+#EXTINF:-1,Kujtesa Sport 4 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283122.ts
-#EXTINF:0 tvg-name="Liria TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Liria TV 🇦🇱
+#EXTINF:-1,Liria TV 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283123.ts
-#EXTINF:0 tvg-name="Living 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/40b4baa4646771a07f4351185838eeea.png",Living 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283124.ts
-#EXTINF:0 tvg-name="Lugina Islame 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Lugina Islame 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283125.ts
-#EXTINF:0 tvg-name="Masha dhe Ariu 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/339088aa4b37d2a426f4dcc7e2018f6d.png",Masha dhe Ariu 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283126.ts
-#EXTINF:0 tvg-name="MCN TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/3cf3e4d2a95fdaa8e24a019b348fa671.png",MCN TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283127.ts
-#EXTINF:0 tvg-name="Mekka 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/7670606f88adfa586daf095e3ec1c640.png",Mekka 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283128.ts
-#EXTINF:0 tvg-name="MFM Musik 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/ee50f011c806f8a8420b78057ad2c6d1.png",MFM Musik 🇦🇱
+#EXTINF:-1,MFM Musik 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283129.ts
-#EXTINF:0 tvg-name="MRTV 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/ca8ccebc43eff4c533f5deecfac05e3d.png",MRTV 2 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283130.ts
-#EXTINF:0 tvg-name="MTV Kosova 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/33cb6f50f5de2008fc9ae746f1286788.png",MTV Kosova 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283131.ts
-#EXTINF:0 tvg-name="Muse  🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/981da70b66ef6d87bd25ca7f1fca6158.png",Muse  🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283132.ts
-#EXTINF:0 tvg-name="My Music 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c85122921353a119d28a91d353f18a4f.png",My Music 🇦🇱
+#EXTINF:-1,My Music 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283133.ts
-#EXTINF:0 tvg-name="Nat Geo Wild 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/9a3112670d7e4ccf92e6b55e013f911b.png",Nat Geo Wild 🇦🇱
+#EXTINF:-1,Nat Geo Wild 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283134.ts
-#EXTINF:0 tvg-name="National Geographic 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/90cfcbbaa9454be9badae5e11bd69798.png",National Geographic 🇦🇱
+#EXTINF:-1,National Geographic 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283135.ts
-#EXTINF:0 tvg-name="News 24 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/47cd826e26f99c15536761c14b7f0f2c.png",News 24 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283136.ts
-#EXTINF:0 tvg-name="Nick Jr. 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/134b744365daa1340c0e9cee11f20d60.png",Nick Jr. 🇦🇱
+#EXTINF:-1,Nick Jr. 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283137.ts
-#EXTINF:0 tvg-name="On TV Music 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/56c775142eb5b66771bc32e7ec4c1b8d.png",On TV Music 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283138.ts
-#EXTINF:0 tvg-name="Ora News 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/ec11cb84a08ecb8f0e83dfdfc041e576.png",Ora News 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283139.ts
-#EXTINF:0 tvg-name="OverSport 1 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/72be0a9450c029775556e938cbc5783b.png",OverSport 1 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283140.ts
-#EXTINF:0 tvg-name="OverSport 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/72be0a9450c029775556e938cbc5783b.png",OverSport 2 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283141.ts
-#EXTINF:0 tvg-name="OverSport 3 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/72be0a9450c029775556e938cbc5783b.png",OverSport 3 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283142.ts
-#EXTINF:0 tvg-name="OverSport 4 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/72be0a9450c029775556e938cbc5783b.png",OverSport 4 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283143.ts
-#EXTINF:0 tvg-name="Peace TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/015b9dc661c196f56610fb8dd3607d11.png",Peace TV 🇦🇱
+#EXTINF:-1,Peace TV 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283144.ts
-#EXTINF:0 tvg-name="Presheva RTV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Presheva RTV 🇦🇱
+#EXTINF:-1,Presheva RTV 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283145.ts
-#EXTINF:0 tvg-name="Report TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/ee96eed2fcc7ea644cb87cd57ac36f28.png",Report TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283146.ts
-#EXTINF:0 tvg-name="Roma TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/2200a547a1c3203231fcee257af8eb62.png",Roma TV 🇦🇱
+#EXTINF:-1,Roma TV 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283147.ts
-#EXTINF:0 tvg-name="Rozafa TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/b0d01a466b724396ac77cc672b896e90.png",Rozafa TV 🇦🇱
+#EXTINF:-1,Rozafa TV 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283148.ts
-#EXTINF:0 tvg-name="Rrokum TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/dadd985b7dd770170b4fbad8cfa0f4a9.png",Rrokum TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283149.ts
-#EXTINF:0 tvg-name="RTK 1 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/28907b974d6f32361ead66f85c377271.png",RTK 1 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283150.ts
-#EXTINF:0 tvg-name="RTK 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/51c4bb909e0886c240e0ba63fc523a9a.png",RTK 2 🇦🇱
+#EXTINF:-1,RTK 2 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283151.ts
-#EXTINF:0 tvg-name="RTK 3 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/05457f3c1984d07ba510864873f7d1d6.png",RTK 3 🇦🇱
+#EXTINF:-1,RTK 3 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283152.ts
-#EXTINF:0 tvg-name="RTK 4 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/451827e48619dc5b709f23676dda0f73.png",RTK 4 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283153.ts
-#EXTINF:0 tvg-name="RTSH 1 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/ad4710770cc187a5d03253761e8178ae.png",RTSH 1 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283154.ts
-#EXTINF:0 tvg-name="RTSH 24 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/16b574a4371b7e4e5625a1501bf4edeb.png",RTSH 24 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283155.ts
-#EXTINF:0 tvg-name="RTSH 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/44178a967d14d95e6158d10635fa759d.png",RTSH 2 🇦🇱
+#EXTINF:-1,RTSH 2 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283156.ts
-#EXTINF:0 tvg-name="RTSH 3 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/99f39331a55dbcd5ca2df11d471c9e28.png",RTSH 3 🇦🇱
+#EXTINF:-1,RTSH 3 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283157.ts
-#EXTINF:0 tvg-name="RTSH Femije 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/f20f533737023efb95879e11cc0c873f.png",RTSH Femije 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283158.ts
-#EXTINF:0 tvg-name="RTSH Film 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/43e2f9d3d2f442b891ae9f10e0d3e11c_202010050917.svg",RTSH Film 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283159.ts
-#EXTINF:0 tvg-name="RTSH Korca 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/6e978f14e82442c7e01c6ec56dfa14e1.png",RTSH Korca 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283160.ts
-#EXTINF:0 tvg-name="RTSH Muzike 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/RTSH_Muzik%C3%AB_%282020_Logo%29.svg/2560px-RTSH_Muzik%C3%AB_%282020_Logo%29.svg.png",RTSH Muzike 🇦🇱
+#EXTINF:-1,RTSH Muzike 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283161.ts
-#EXTINF:0 tvg-name="RTSH Plus 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c37678f0b38ba1466d3b5eb1c744ef0c.png",RTSH Plus 🇦🇱
+#EXTINF:-1,RTSH Plus 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283162.ts
-#EXTINF:0 tvg-name="RTSH Shqip 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/511d9508ef762054284da740c2371b6a.png",RTSH Shqip 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283163.ts
-#EXTINF:0 tvg-name="RTSH Sport 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c7f14379fb52abeb8324754aa655615c.png",RTSH Sport 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283164.ts
-#EXTINF:0 tvg-name="RTV 21 Junior 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/e4906a908a29984b9fba729c2a9189ae.png",RTV 21 Junior 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283165.ts
-#EXTINF:0 tvg-name="RTV 21 Macedonia 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/0f864074e3508295b2e2fa277f493fb0.png",RTV 21 Macedonia 🇦🇱
+#EXTINF:-1,RTV 21 Macedonia 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283166.ts
-#EXTINF:0 tvg-name="RTV 21 Mix 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/026f9276ee0e66c850ec13affb9df589.png",RTV 21 Mix 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283167.ts
-#EXTINF:0 tvg-name="RTV 21 Plus 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/2013b1a2d641b86eec20bb4df6fd4dda.png",RTV 21 Plus 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283168.ts
-#EXTINF:0 tvg-name="RTV 21 Popullore 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/0149ace19a9c9a263f5a9ad83a572e10.png",RTV 21 Popullore 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283169.ts
-#EXTINF:0 tvg-name="RTV 21 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/2013b1a2d641b86eec20bb4df6fd4dda.png",RTV 21 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283170.ts
-#EXTINF:0 tvg-name="RTV Aldi 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png",RTV Aldi 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283171.ts
-#EXTINF:0 tvg-name="RTV Fontana 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c16639d7e1c288fc4e54cd9f807f3978.png",RTV Fontana 🇦🇱
+#EXTINF:-1,RTV Fontana 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283172.ts
-#EXTINF:0 tvg-name="RTV Islam 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/8a9d213bbe3d8e98e150b4400eee40b9.png",RTV Islam 🇦🇱
+#EXTINF:-1,RTV Islam 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283173.ts
-#EXTINF:0 tvg-name="RTV Pendimi 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/60b30565d9c8a5f6d239d8d3bb2ed0bf.png",RTV Pendimi 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283174.ts
-#EXTINF:0 tvg-name="Scan TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/e181ec5ed3b6cafbabfa7dea412d7928.png",Scan TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283175.ts
-#EXTINF:0 tvg-name="Shenja TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/28e34b9ca16c2a542ef412bde14e374f.png",Shenja TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283176.ts
-#EXTINF:0 tvg-name="Sky Aksion 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/14abd8ec5c3983b24a0d5fa849a86d97.png",Sky Aksion 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283177.ts
-#EXTINF:0 tvg-name="Sky Drame 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Sky Drame 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283178.ts
-#EXTINF:0 tvg-name="Sky Komedi 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/0ffe44034d1ed560af0f409aefd2a42a.png",Sky Komedi 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283179.ts
-#EXTINF:0 tvg-name="Sky Max 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/63a822302db3757f806043ba911a570b.png",Sky Max 🇦🇱
+#EXTINF:-1,Sky Max 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283180.ts
-#EXTINF:0 tvg-name="Sky Novela 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Sky Novela 🇦🇱
+#EXTINF:-1,Sky Novela 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283181.ts
-#EXTINF:0 tvg-name="Sofia 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/d639898d948a0cd42cf2e3225fe5237c.png",Sofia 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283182.ts
-#EXTINF:0 tvg-name="Sole TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Sole TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283183.ts
-#EXTINF:0 tvg-name="Star Plus Shkoder 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/a36cf1f46f2618a4db1beaa3ffb6e037.png",Star Plus Shkoder 🇦🇱
+#EXTINF:-1,Star Plus Shkoder 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283184.ts
-#EXTINF:0 tvg-name="Super Sport 1 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/f188211c43989bec73ede1504fab6cb7.png",Super Sport 1 🇦🇱
+#EXTINF:-1,Super Sport 1 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283185.ts
-#EXTINF:0 tvg-name="Super Sport 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/5b62fbe2f53598bbc2d95d0b74471e32.png",Super Sport 2 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283186.ts
-#EXTINF:0 tvg-name="Super Sport 3 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/e3c8f6c79b646a8afd2c2a6f9803c4e8.png",Super Sport 3 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283187.ts
-#EXTINF:0 tvg-name="Super Sport 4 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/3aa8b57e0ee32d25b47d58b68697db2a.png",Super Sport 4 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283188.ts
-#EXTINF:0 tvg-name="Super Sport 5 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/1fa477cbaaf699df787feb42314ed265.png",Super Sport 5 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283189.ts
-#EXTINF:0 tvg-name="Super Sport Kosova 1 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/e5a2b5f7321ea2b3c1c7a982eb37144e.png",Super Sport Kosova 1 🇦🇱
+#EXTINF:-1,Super Sport Kosova 1 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283190.ts
-#EXTINF:0 tvg-name="Super Sport Kosova 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c2877447ef4b9338b96ce16a118faabb.png",Super Sport Kosova 2 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283191.ts
-#EXTINF:0 tvg-name="Super Sport Kosova 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c2877447ef4b9338b96ce16a118faabb.png",Super Sport Kosova 2 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283192.ts
-#EXTINF:0 tvg-name="Super Sport News 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/1516ed9d08dcf5b5d92f9fe69f28e9e1.png",Super Sport News 🇦🇱
+#EXTINF:-1,Super Sport News 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283193.ts
-#EXTINF:0 tvg-name="Supersonic TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/77ebad8900a9c92e1d0d4755f4863e4a.png",Supersonic TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283194.ts
-#EXTINF:0 tvg-name="Syri Vision TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/cfd5961eae4cc5aec63234dc46136c00.png",Syri Vision TV 🇦🇱
+#EXTINF:-1,Syri Vision TV 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283195.ts
-#EXTINF:0 tvg-name="T7 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/fb0e6ec3f4969b1a3df1f364b5d25f2a.png",T7 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283196.ts
-#EXTINF:0 tvg-name="Tele One 1 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Tele One 1 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283197.ts
-#EXTINF:0 tvg-name="Tele One 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Tele One 2 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283198.ts
-#EXTINF:0 tvg-name="Tele One 3 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Tele One 3 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283199.ts
-#EXTINF:0 tvg-name="Tele One 4 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Tele One 4 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283200.ts
-#EXTINF:0 tvg-name="Tele One 5 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Tele One 5 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283201.ts
-#EXTINF:0 tvg-name="Tele One 6 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Tele One 6 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283202.ts
-#EXTINF:0 tvg-name="Tema TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",Tema TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283203.ts
-#EXTINF:0 tvg-name="Tip TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/89d2d31efa7974c3671c8a54cb34b22f.png",Tip TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283204.ts
-#EXTINF:0 tvg-name="Tom & Jerry 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/f4e3c658251f8ca3542a5887c8f548b9.png",Tom & Jerry 🇦🇱
+#EXTINF:-1,Tom  and  Jerry 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283205.ts
-#EXTINF:0 tvg-name="Top Channel 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c11626a426bd0c6ce6135f95372deba8.png",Top Channel 🇦🇱
+#EXTINF:-1,Top Channel 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283206.ts
-#EXTINF:0 tvg-name="TOP Estrada TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/218af35f867f6c33e405ab5a4428b6c7.png",TOP Estrada TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283207.ts
-#EXTINF:0 tvg-name="Top News 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/7f8091c0caf60dbc1d7f223a4ca4445e.png",Top News 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283208.ts
-#EXTINF:0 tvg-name="Travel Channel 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/8a7619cb23a91c454809a930cd46bb68.png",Travel Channel 🇦🇱
+#EXTINF:-1,Travel Channel 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283209.ts
-#EXTINF:0 tvg-name="Tring 3+ 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/5e212302bd9a7041eacb33ff1c4cae77.png",Tring 3+ 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283210.ts
-#EXTINF:0 tvg-name="Tring Action 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/604e5119a43a80453cb34730a236e36f.png",Tring Action 🇦🇱
+#EXTINF:-1,Tring Action 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283211.ts
-#EXTINF:0 tvg-name="Tring Comedy 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/d1a84d82a178bdaca168318795d979dd.png",Tring Comedy 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283212.ts
-#EXTINF:0 tvg-name="Tring Fantasy 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/06a3550f9dfc928cb028bab00adda77f.png",Tring Fantasy 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283213.ts
-#EXTINF:0 tvg-name="Tring History 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/aff8a44e61bc9fcfeb1f56b8a6176ab0.png",Tring History 🇦🇱
+#EXTINF:-1,Tring History 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283214.ts
-#EXTINF:0 tvg-name="Tring International 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/7504e423a51f4a05680871a3a7a0389a.png",Tring International 🇦🇱
+#EXTINF:-1,Tring International 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283215.ts
-#EXTINF:0 tvg-name="Tring Jolly 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c9fb6bac29b994d38420a561b8151602.png",Tring Jolly 🇦🇱
+#EXTINF:-1,Tring Jolly 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283216.ts
-#EXTINF:0 tvg-name="Tring Kids 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/461347b9b4618aa712bfed6b73433edf.png",Tring Kids 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283217.ts
-#EXTINF:0 tvg-name="Tring Life 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/74016ce53ea5e6c707fdbf1ce856d3c2.png",Tring Life 🇦🇱
+#EXTINF:-1,Tring Life 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283218.ts
-#EXTINF:0 tvg-name="Tring Planet 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/1e2686f8e4bca4c10168201ff0062103.png",Tring Planet 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283219.ts
-#EXTINF:0 tvg-name="Tring Shqip 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/6bf9fe54d73a83b4889dbcc668749988.png",Tring Shqip 🇦🇱
+#EXTINF:-1,Tring Shqip 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283220.ts
-#EXTINF:0 tvg-name="Tring Smile 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/a9c421d852e3dc5a2bd636ca7e093cf5.png",Tring Smile 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283221.ts
-#EXTINF:0 tvg-name="Tring Sport 1 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/c3f0faeca11cc9f47ab606950c3a0469.png",Tring Sport 1 🇦🇱
+#EXTINF:-1,Tring Sport 1 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283222.ts
-#EXTINF:0 tvg-name="Tring Sport 2 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/884a006a966b58e0d1e5c14beec9a6b6.png",Tring Sport 2 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283223.ts
-#EXTINF:0 tvg-name="Tring Sport 3 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/00f6f844031f5469e836c3cb35b3b69a.png",Tring Sport 3 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283224.ts
-#EXTINF:0 tvg-name="Tring Sport 4 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/3dbeb95ba7e3683d485cd759c0cb19e4.png",Tring Sport 4 🇦🇱
+#EXTINF:-1,Tring Sport 4 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283225.ts
-#EXTINF:0 tvg-name="Tring Sport News 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/25d3b0e62ea5baa37ca6249562067dce.png",Tring Sport News 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283226.ts
-#EXTINF:0 tvg-name="Tring Super 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/d1fa0ca5b579179fa73d8ff9fd87169c.png",Tring Super 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283227.ts
-#EXTINF:0 tvg-name="Tring Tring 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/21f9e965955c7e14df6fc8085e344fdf.png",Tring Tring 🇦🇱
+#EXTINF:-1,Tring Tring 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283228.ts
-#EXTINF:0 tvg-name="Tring World 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/124dda8a9a54c5c29f6cd289149679db.png",Tring World 🇦🇱
+#EXTINF:-1,Tring World 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283229.ts
-#EXTINF:0 tvg-name="Turbo Channel 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/54a3836e8b1bbba996bdebbb56c829ec.png",Turbo Channel 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283230.ts
-#EXTINF:0 tvg-name="TV 2 Gostivar 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/ea4b531c5a453d063df16ea4b25b478e.png",TV 2 Gostivar 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283231.ts
-#EXTINF:0 tvg-name="TV Dukagjini 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/27fa1c8a6f61a75878446de96df3d97c.png",TV Dukagjini 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283232.ts
-#EXTINF:0 tvg-name="TV Mitrovica 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/de79d0a970c5739dd87ac6aba0e7a457.png",TV Mitrovica 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283233.ts
-#EXTINF:0 tvg-name="TV Opoja 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/749dbe3dc908dd8556748621cb34fa23.png",TV Opoja 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283234.ts
-#EXTINF:0 tvg-name="TV Sharri 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/e339c92c1f1ecca434fcc9a3ce61a132.png",TV Sharri 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283235.ts
-#EXTINF:0 tvg-name="TV1 Shkoder 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/a18f1c6329b4f9a3a54525d8b3832891.png",TV1 Shkoder 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283236.ts
-#EXTINF:0 tvg-name="TV7 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/288f2b7b08a1fd793edad9ffa67b55c3.png",TV7 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283237.ts
-#EXTINF:0 tvg-name="T 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/b9ece18c950afbfa6b0fdbfa4ff731d3.png",T 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283238.ts
-#EXTINF:0 tvg-name="Vizion Plus 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/1b24ac9f03bca31f902f87d3c3ae57b5.png",Vizion Plus 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283239.ts
-#EXTINF:0 tvg-name="WebStar Action 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/18872c241065951fa9f06b145db1eb3e.png",WebStar Action 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283240.ts
-#EXTINF:0 tvg-name="WebStar Chuchu 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/65fc96bceca33807699cb020909c431a.png",WebStar Chuchu 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283241.ts
-#EXTINF:0 tvg-name="WebStar Cinema 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/65fc96bceca33807699cb020909c431a.png",WebStar Cinema 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283242.ts
-#EXTINF:0 tvg-name="WebStar Drame 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/65fc96bceca33807699cb020909c431a.png",WebStar Drame 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283243.ts
-#EXTINF:0 tvg-name="WebStar Humor 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/65fc96bceca33807699cb020909c431a.png",WebStar Humor 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283244.ts
-#EXTINF:0 tvg-name="WebStar Islam 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/65fc96bceca33807699cb020909c431a.png",WebStar Islam 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283245.ts
-#EXTINF:0 tvg-name="WebStar Komedi 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/65fc96bceca33807699cb020909c431a.png",WebStar Komedi 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283246.ts
-#EXTINF:0 tvg-name="WebStar Muzik 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/65fc96bceca33807699cb020909c431a.png",WebStar Muzik 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283247.ts
-#EXTINF:0 tvg-name="WebStar Popullore 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/65fc96bceca33807699cb020909c431a.png",WebStar Popullore 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283248.ts
-#EXTINF:0 tvg-name="WebStar Qifteli 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/65fc96bceca33807699cb020909c431a.png",WebStar Qifteli 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283249.ts
-#EXTINF:0 tvg-name="WebStar Thriller 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/14ce9fa6bac559c274f9908bd7fe80c2.png",WebStar Thriller 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283250.ts
-#EXTINF:0 tvg-name="Zico TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/b0d0f0fcccf4f45e6c4474bb3d58d128.png",Zico TV 🇦🇱
+#EXTINF:-1,Zico TV 🇦🇱
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283251.ts
-#EXTINF:0 tvg-name="Zjarr TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="https://xplatinmedia.com:8080/images/5cdb17c6988262db95b9fb259e221726.png",Zjarr TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283252.ts
-#EXTINF:0 tvg-name="ATV TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",ATV TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283253.ts
-#EXTINF:0 tvg-name="APOLLON NEWS TV 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",APOLLON NEWS TV 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283254.ts
-#EXTINF:0 tvg-name="STAR+ SHKODRA 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",STAR+ SHKODRA 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283255.ts
-#EXTINF:0 tvg-name="E SHKENCA 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",E SHKENCA 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283256.ts
-#EXTINF:0 tvg-name="EXPLORER SHKENCA 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",EXPLORER SHKENCA 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283257.ts
-#EXTINF:0 tvg-name="JIM JIM 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",JIM JIM 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283258.ts
-#EXTINF:0 tvg-name="TLC 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",TLC 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283259.ts
-#EXTINF:0 tvg-name="KS FILMA24 TRILLER 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",KS FILMA24 TRILLER 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283260.ts
-#EXTINF:0 tvg-name="X COMEDY 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",X COMEDY 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283261.ts
-#EXTINF:0 tvg-name="X NATYRA 🇦🇱" group-title="|🇦🇱|  ALBANIA" tvg-logo="",X NATYRA 🇦🇱
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/283262.ts
-#EXTINF:0 tvg-name="UFC Fight Pass 24/7 🇺🇸" group-title="|🇺🇸| GENERAL" tvg-logo="http://xplatinmedia.com/images/0f1e6af3ded265ef957875152c35f14b.png",UFC Fight Pass 24/7 🇺🇸
-http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/278170.ts
 #EXTINF:0 tvg-name="3ABN Kids HD 🇺🇸" group-title="|🇺🇸| KIDS" tvg-logo="http://xplatinmedia.com/images/c39ab97599526025d47dd7ec14ed70d1.png",3ABN Kids HD 🇺🇸
 http://ottspider4k.live:2052/live/hEAiudScOdWj/jYZpwTayBa0A/276846.ts
 #EXTINF:0 tvg-name="Baby First 🇺🇸" group-title="|🇺🇸| KIDS" tvg-logo="http://xplatinmedia.com/images/976fd6465a493d8850709421598432e8.png",Baby First 🇺🇸
