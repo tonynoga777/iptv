@@ -1,4 +1,16 @@
 #EXTM3U x-generator="https://m3u4u.com/"
+#EXTINF:-1 group-title="✨ CRISTEL ✨" tvg-logo="http://picons.cmshulk.com/picons/116057.png" tvg-id="",ALB| BANG BANG
+http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116057.ts
+#EXTINF:-1 group-title="✨ CRISTEL ✨" tvg-logo="http://picons.cmshulk.com/picons/116060.png" tvg-id="",ALB| CUFO
+http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116060.ts
+#EXTINF:-1 group-title="✨ CRISTEL ✨" tvg-logo="http://picons.cmshulk.com/picons/116173.png" tvg-id="",ALB| SOFIA
+http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116173.ts
+#EXTINF:-1 group-title="✨ CRISTEL ✨" tvg-logo="http://picons.cmshulk.com/picons/116186.png" tvg-id="",ALB| TRING KIDS
+http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116186.ts
+#EXTINF:-1 group-title="✨ CRISTEL ✨" tvg-logo="http://picons.cmshulk.com/picons/116100.png" tvg-id="",ALB| JUNIOR
+http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116100.ts
+#EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="" tvg-id="",FIFA WORLD CUP 4K
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/116369.png" tvg-id="",ALB| TOP CHANNEL 4K
 http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116369.ts
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/116177.png" tvg-id="",ALB| TOP CHANNEL HD
@@ -27,8 +39,6 @@ http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/1082716.ts
 http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116301.ts
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/116056.png" tvg-id="",ALB| BABY TV
 http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116056.ts
-#EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/116057.png" tvg-id="",ALB| BANG BANG
-http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116057.ts
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BBF-MUSIK.jpg" tvg-id="",ALB| BBF MUSIC
 http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/1035714.ts
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/206183.png" tvg-id="",ALB| BLUE SKY TV
@@ -37,8 +47,6 @@ http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/206183.ts
 http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116303.ts
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/116236.png" tvg-id="",ALB| CLICK HD
 http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116236.ts
-#EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/116060.png" tvg-id="",ALB| CUFO
-http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116060.ts
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/917711.png" tvg-id="",ALB| DIGI GOLD
 http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/917711.ts
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/917712.png" tvg-id="",ALB| DIGI GOLD 1
@@ -141,8 +149,6 @@ http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116306.ts
 http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116096.ts
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/116065.png" tvg-id="",ALB| INVESTIGATION DISCOVERY
 http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116065.ts
-#EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/116100.png" tvg-id="",ALB| JUNIOR
-http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116100.ts
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://103.176.90.118/picons/logos/KANAL-D-DRAMA.jpeg" tvg-id="",ALB| KANAL D DRAMA
 http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/164354.ts
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://103.176.90.118/picons/logos/KANAL-D-DRAMA.jpeg" tvg-id="",ALB| KANAL D DRAMA FHD
@@ -197,8 +203,6 @@ http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116136.ts
 http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/1082693.ts
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/116059.png" tvg-id="",ALB| SKY KOMEDI HD
 http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116059.ts
-#EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/116173.png" tvg-id="",ALB| SOFIA
-http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116173.ts
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/116270.png" tvg-id="",ALB| STAR PLUS SHKODËR HD
 http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116270.ts
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/116360.png" tvg-id="",ALB| SUPERSONIC TV
@@ -225,8 +229,6 @@ http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/860385.ts
 http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116183.ts
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/116184.png" tvg-id="",ALB| TRING HISTORY
 http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116184.ts
-#EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/116186.png" tvg-id="",ALB| TRING KIDS
-http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116186.ts
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/116187.png" tvg-id="",ALB| TRING LIFE
 http://vpn.8kultradnscloud.ru:80/live/cem3b4h39g/p7h71fnff1/116187.ts
 #EXTINF:-1 group-title="AL| ALBANIA" tvg-logo="http://picons.cmshulk.com/picons/917710.png" tvg-id="",ALB| TRING NOVELAS HD
